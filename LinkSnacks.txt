@@ -1,0 +1,2 @@
+Ejercicio 1: https://snack.expo.dev/@fermont/ejercicio1des2
+Ejercicio 2: https://snack.expo.dev/@fermont/ejercicio2desafio2?platform=web
